@@ -1,11 +1,9 @@
 package com.stackroot;
 import java.util.Scanner;
 
-class Assignment8
-{
-    public static void main(String args[])
-    {
-        int  first, last, middle, n, search, array[];
+class Assignment8 {
+    public static void main(String args[]) {
+       /* int  first, last, middle, n, search, array[];
 
         Scanner in = new Scanner(System.in);
         System.out.println("Enter number of elements");
@@ -40,8 +38,31 @@ class Assignment8
             middle = (first + last)/2;
         }
         if (first > last)
-            System.out.println(search + " isn't present in the list.\n");
+            System.out.println(search + " isn't present in the list.\n");*/
+        int num = 54;
+        int input;
+        boolean guess = false;
+        System.out.println("guess a number");
+        Scanner sc = new Scanner(System.in);
+      //  int input = sc.nextInt();
+        while (guess == false) {
+          //  System.out.println("you guessed wrong !!! please enter again");
+            input = sc.nextInt();
+
+            if (input <100 && input > 0) {
+                if (input == num) {
+                    System.out.println("you guessed right!!! congrats ");
+                    guess = true;
+                } else if (input > num) {
+                    System.out.println("you guessed wrong !!! input is greater than number");
+                } else if (input < num) {
+                    System.out.println("you guessed wrong !!! input is lesser than number");
+                } else {
+                    System.out.println("you guessed right!!! congrats please enter again input out of range");
+                }
+            }
+        }
+
+
     }
 }
-
-
