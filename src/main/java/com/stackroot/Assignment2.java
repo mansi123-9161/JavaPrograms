@@ -1,3 +1,5 @@
+package com.stackroot;
+
 import java.util.Scanner;
 
 public class Assignment2 {
@@ -19,5 +21,5 @@ public class Assignment2 {
         else
             System.out.println("nothing");
 
-  }
+    }
 }
