@@ -1,3 +1,5 @@
+package com.stackroot;
+
 import java.util.Scanner;
 
 public class Assignment3 {

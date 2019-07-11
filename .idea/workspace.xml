@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87225d4-25c0-4194-b623-2a00bcc7f95d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/Assignment2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="270">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -55,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assignment3.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/Assignment3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="41" />
+            <state relative-caret-position="165">
+              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -120,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroot/Assignment10.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroot/Assignment1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroot/Assignment2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroot/Assignment3.java" />
       </list>
     </option>
   </component>
@@ -191,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Assignment2">
+  <component name="RunManager" selected="Application.Assignment3">
     <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroot.Assignment1" />
       <module name="practiceExercise" />
@@ -231,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroot.Assignment7" />
+    <configuration name="Assignment3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroot.Assignment3" />
       <module name="practiceExercise" />
       <extension name="coverage">
         <pattern>
@@ -244,8 +246,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroot.Assignment8" />
+    <configuration name="Assignment7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroot.Assignment7" />
       <module name="practiceExercise" />
       <extension name="coverage">
         <pattern>
@@ -270,18 +272,18 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Assignment7" />
-      <item itemvalue="Application.Assignment8" />
       <item itemvalue="Application.Assignment10" />
       <item itemvalue="Application.Assignment1" />
       <item itemvalue="Application.Assignment2" />
+      <item itemvalue="Application.Assignment3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assignment3" />
         <item itemvalue="Application.Assignment2" />
         <item itemvalue="Application.Assignment1" />
         <item itemvalue="Application.Assignment10" />
         <item itemvalue="Application.Assignment7" />
-        <item itemvalue="Application.Assignment8" />
       </list>
     </recent_temporary>
   </component>
@@ -359,20 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/Assignment4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/Assignment7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -424,8 +412,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/Assignment2.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment3.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <caret line="9" column="22" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/Assignment4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/Assignment3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>
