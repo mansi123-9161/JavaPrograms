@@ -3,31 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a87225d4-25c0-4194-b623-2a00bcc7f95d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/Assignment9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practiceExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/pe1/Assignment1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiceExercise/com/stackroot/pe1/Assignment1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/SmallCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/SmallCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/javaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/javaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/SmallCapitalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/SmallCapitalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/javaDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/javaDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment1Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment10.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="308">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -54,29 +33,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="194">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment1Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+            <state relative-caret-position="299">
+              <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
               <folding>
-                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment10Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="375">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -132,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment3.java" />
       </list>
     </option>
   </component>
@@ -253,6 +245,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Assignment1Test.givenInputIsNotPalindrom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroot.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroot.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroot.pe1.Assignment1Test" />
+      <option name="METHOD_NAME" value="givenInputIsNotPalindrom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment1Test.givenInputIsPalindromAndGreaterThan25" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroot.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroot.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroot.pe1.Assignment1Test" />
+      <option name="METHOD_NAME" value="givenInputIsPalindromAndGreaterThan25" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment1Test.givenInputIsPalindromAndLesserThan25" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroot.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroot.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroot.pe1.Assignment1Test" />
+      <option name="METHOD_NAME" value="givenInputIsPalindromAndLesserThan25" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Assignment2Test.givenINtegerIsOutOfGivenLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practiceExercise" />
       <extension name="coverage">
@@ -264,22 +304,6 @@
       <option name="PACKAGE_NAME" value="com.stackroot.pe1" />
       <option name="MAIN_CLASS_NAME" value="com.stackroot.pe1.Assignment2Test" />
       <option name="METHOD_NAME" value="givenINtegerIsOutOfGivenLimit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Assignment2Test.givenINtegerShouldBeGraterThan20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practiceExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroot.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroot.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroot.pe1.Assignment2Test" />
-      <option name="METHOD_NAME" value="givenINtegerShouldBeGraterThan20" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -301,53 +325,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment8Test.guessedNumberShouldBeCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practiceExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroot.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroot.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroot.pe1.Assignment8Test" />
-      <option name="METHOD_NAME" value="guessedNumberShouldBeCorrect" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Assignment8Test.guessedNumberShouldNotBeCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practiceExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroot.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroot.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroot.pe1.Assignment8Test" />
-      <option name="METHOD_NAME" value="guessedNumberShouldNotBeCorrect" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.Assignment8Test.guessedNumberShouldNotBeCorrect" />
-      <item itemvalue="JUnit.Assignment8Test.guessedNumberShouldBeCorrect" />
-      <item itemvalue="JUnit.Assignment2Test.givenINtegerShouldBeGraterThan20" />
       <item itemvalue="JUnit.Assignment2Test.givenINtegerShouldBeGraterThan20AndLessThan30AndOdd" />
       <item itemvalue="JUnit.Assignment2Test.givenINtegerIsOutOfGivenLimit" />
+      <item itemvalue="JUnit.Assignment1Test.givenInputIsPalindromAndGreaterThan25" />
+      <item itemvalue="JUnit.Assignment1Test.givenInputIsPalindromAndLesserThan25" />
+      <item itemvalue="JUnit.Assignment1Test.givenInputIsNotPalindrom" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Assignment2Test.givenINtegerIsOutOfGivenLimit" />
+        <item itemvalue="JUnit.Assignment1Test.givenInputIsNotPalindrom" />
+        <item itemvalue="JUnit.Assignment1Test.givenInputIsPalindromAndLesserThan25" />
+        <item itemvalue="JUnit.Assignment1Test.givenInputIsPalindromAndGreaterThan25" />
         <item itemvalue="JUnit.Assignment2Test.givenINtegerShouldBeGraterThan20AndLessThan30AndOdd" />
-        <item itemvalue="JUnit.Assignment2Test.givenINtegerShouldBeGraterThan20" />
-        <item itemvalue="JUnit.Assignment8Test.guessedNumberShouldNotBeCorrect" />
-        <item itemvalue="JUnit.Assignment8Test.guessedNumberShouldBeCorrect" />
       </list>
     </recent_temporary>
   </component>
@@ -365,40 +357,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Assignment8Test_guessedNumberShouldNotBeCorrect - 2019.07.12 at 11h 57m 31s.xml">
-      <configuration name="Assignment8Test.guessedNumberShouldNotBeCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment8Test_guessedNumberShouldNotBeCorrect - 2019.07.12 at 11h 59m 12s.xml">
-      <configuration name="Assignment8Test.guessedNumberShouldNotBeCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment8Test_guessedNumberShouldNotBeCorrect - 2019.07.12 at 11h 59m 14s.xml">
-      <configuration name="Assignment8Test.guessedNumberShouldNotBeCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment8Test_guessedNumberShouldNotBeCorrect - 2019.07.12 at 12h 02m 05s.xml">
-      <configuration name="Assignment8Test.guessedNumberShouldNotBeCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment8Test_guessedNumberShouldNotBeCorrect - 2019.07.12 at 12h 02m 29s.xml">
-      <configuration name="Assignment8Test.guessedNumberShouldNotBeCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment8Test_guessedNumberShouldNotBeCorrect - 2019.07.12 at 12h 02m 31s.xml">
-      <configuration name="Assignment8Test.guessedNumberShouldNotBeCorrect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment2Test_givenINtegerShouldBeGraterThan20 - 2019.07.12 at 12h 13m 10s.xml">
-      <configuration name="Assignment2Test.givenINtegerShouldBeGraterThan20" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment2Test_givenINtegerShouldBeGraterThan20AndLessThan30AndOdd - 2019.07.12 at 12h 17m 57s.xml">
-      <configuration name="Assignment2Test.givenINtegerShouldBeGraterThan20AndLessThan30AndOdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Assignment2Test_givenINtegerShouldBeGraterThan20AndLessThan30AndOdd - 2019.07.12 at 12h 18m 14s.xml">
-      <configuration name="Assignment2Test.givenINtegerShouldBeGraterThan20AndLessThan30AndOdd" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Assignment2Test_givenINtegerIsOutOfGivenLimit - 2019.07.12 at 12h 20m 25s.xml">
+      <configuration name="Assignment2Test.givenINtegerIsOutOfGivenLimit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsPalindromAndGreaterThan25 - 2019.07.12 at 13h 42m 55s.xml">
+      <configuration name="Assignment1Test.givenInputIsPalindromAndGreaterThan25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsPalindromAndLesserThan25 - 2019.07.12 at 13h 44m 24s.xml">
+      <configuration name="Assignment1Test.givenInputIsPalindromAndLesserThan25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsPalindromAndLesserThan25 - 2019.07.12 at 13h 44m 42s.xml">
+      <configuration name="Assignment1Test.givenInputIsPalindromAndLesserThan25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsPalindromAndLesserThan25 - 2019.07.12 at 13h 44m 50s.xml">
+      <configuration name="Assignment1Test.givenInputIsPalindromAndLesserThan25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsPalindromAndLesserThan25 - 2019.07.12 at 13h 46m 22s.xml">
+      <configuration name="Assignment1Test.givenInputIsPalindromAndLesserThan25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsPalindromAndLesserThan25 - 2019.07.12 at 13h 46m 38s.xml">
+      <configuration name="Assignment1Test.givenInputIsPalindromAndLesserThan25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsPalindromAndLesserThan25 - 2019.07.12 at 13h 46m 50s.xml">
+      <configuration name="Assignment1Test.givenInputIsPalindromAndLesserThan25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment1Test_givenInputIsNotPalindrom - 2019.07.12 at 13h 48m 05s.xml">
+      <configuration name="Assignment1Test.givenInputIsNotPalindrom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Assignment2Test_givenINtegerIsOutOfGivenLimit - 2019.07.12 at 13h 48m 42s.xml">
       <configuration name="Assignment2Test.givenINtegerIsOutOfGivenLimit" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -438,10 +429,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3289256" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289256" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" visible="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3289256" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3305785" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3305785" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -573,13 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -649,26 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/palindrom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -725,24 +689,48 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment10Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="194">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        <state relative-caret-position="308">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroot/pe1/Assignment2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
           <folding>
-            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroot/pe1/Assignment3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -33,6 +33,17 @@ public class Assignment1Test {
 
     @Test
     public void givenInputIsPalindromAndGreaterThan25() {
-        String 
+        String actualresult=assignment1.checkPalindromAndData(888888);
+        assertEquals("the given number palindrome number and greater than 25",actualresult);
+    }
+    @Test
+    public void givenInputIsPalindromAndLesserThan25() {
+        String actualresult=assignment1.checkPalindromAndData(232);
+        assertEquals("the given number not palindrome and less than 25",actualresult);
+    }
+    @Test
+    public void givenInputIsNotPalindrom() {
+        String actualresult=assignment1.checkPalindromAndData(2321);
+        assertEquals("not palindrome",actualresult);
     }
 }
