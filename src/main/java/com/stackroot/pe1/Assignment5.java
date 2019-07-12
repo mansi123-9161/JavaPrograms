@@ -1,4 +1,4 @@
-package com.stackroot;
+package com.stackroot.pe1;
 import java.util.Scanner;
 class Assignment5{
     public static void main(String[] args){

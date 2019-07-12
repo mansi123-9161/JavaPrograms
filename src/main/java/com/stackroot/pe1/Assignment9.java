@@ -1,21 +1,20 @@
-package com.stackroot;
+package com.stackroot.pe1;
 import java.util.*;
 public class Assignment9 {
 
-    public static void main(String args[])
+    public String reverseString(String str)
         {
-            String original, reverse = "";
-            Scanner in = new Scanner(System.in);
+            String reverse = "";
 
-            System.out.println("Enter a string to reverse");
-            original = in.nextLine();
 
-            int length = original.length();
+
+
+            int length = str.length();
 
             for (int i = length - 1 ; i >= 0 ; i--)
-                reverse = reverse + original.charAt(i);
+                reverse = reverse + str.charAt(i);
 
-            System.out.println("Reverse of the string: " + reverse);
+           return reverse;
         }
     }
 

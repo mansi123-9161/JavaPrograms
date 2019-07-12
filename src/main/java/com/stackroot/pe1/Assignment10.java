@@ -1,22 +1,21 @@
-package com.stackroot;
+package com.stackroot.pe1;
 
 import java.util.*;
 
 class Assignment10 {
-    public static void main(String args[]) {
-
-        Scanner sc = new Scanner(System.in);
-        String str1 = sc.next();
+    public String addingSubStringByNumber(String str, int n) {
+        // str ="";
         System.out.println("enter a string");
-        int n = sc.nextInt();
-        String result="";
+
+        String result = "";
         System.out.println("enter a number");
-        String subString = str1.substring(n);
+        String subString = str.substring(n,str.length()).toUpperCase();
         for (int i = 0; i < n; i++) {
 
-          result=result+subString;
+            result = result + subString;
         }
-        System.out.println(str1+result);
+        //System.out.println(str1 + result);
+        return str.toUpperCase()+result;
     }
 
 }
